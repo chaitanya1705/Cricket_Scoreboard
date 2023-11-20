@@ -1,6 +1,6 @@
-# Beast Cricket Scorer
+# Cricket Scorer
 
-Welcome to Beast Cricket Scorer! This console-based program allows users to simulate and score a cricket match between two teams. Below, you'll find information on how to use the program and an overview of its key features.
+Welcome to Cricket Scorer! This console-based program allows users to simulate and score a cricket match between two teams. Below, you'll find information on how to use the program and an overview of its key features.
 
 ## Features:
 
